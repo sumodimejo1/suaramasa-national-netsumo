@@ -20,7 +20,9 @@
     ".css-rquri1",
     "#css-rquri1",
 	  ".flexslider-1",
-	  "#flexslider-1"
+	  "#flexslider-1",
+	  ".l-connect-wrapper",
+	  "#l-connect-wrapper"
       ],
   "costom-element-remove":[
     {
