@@ -18,7 +18,9 @@
     "#teams-promo",
     ".quickedit",
     ".css-rquri1",
-    "#css-rquri1"
+    "#css-rquri1",
+	  ".flexslider-1",
+	  "#flexslider-1"
       ],
   "costom-element-remove":[
     {
