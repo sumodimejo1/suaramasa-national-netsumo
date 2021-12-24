@@ -18,7 +18,9 @@
     "#teams-promo",
     ".quickedit",
     ".css-rquri1",
-    "#css-rquri1"
+    "#css-rquri1",
+    ".l-main-wrapper",
+    "#l-main-wrapper"
   ],
   "costom-element-remove":[
     {
