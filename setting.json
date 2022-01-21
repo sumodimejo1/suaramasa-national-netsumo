@@ -2,7 +2,7 @@
   "name-web":"rita-doctor-netlify-bondek",
   "author":"rita-doctor-netlify-bondek",
   "remove-comment-html":true,
-  "target":"https://www.nih.gov/",
+  "target":"https://www.froma.com/",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
